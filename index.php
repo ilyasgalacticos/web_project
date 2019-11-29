@@ -8,7 +8,5 @@
 	echo "Changed By XAMPP";
 
 	echo "XAMPP is USED";
-
-	echo "THE LAST COMMIT";
 	
 ?>
